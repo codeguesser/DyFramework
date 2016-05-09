@@ -1,2 +1,3 @@
 # DyFramework
 ios动态加载framework，ios版本动态更新
+呐，做个警示：framework和project必须使用相同的bundleid才能在真机运行成功哦……
